@@ -215,6 +215,8 @@ Vue.js supports all browsers that are [ES5-compliant](http://kangax.github.io/co
 [vue-rx]: https://github.com/vuejs/vue-rx
 [vue-devtools]:  https://github.com/vuejs/vue-devtools
 
+https://play.google.com/store/apps/details?id=com.braingames.brainiton.emoji
+
 [vue-router-status]: https://img.shields.io/npm/v/vue-router.svg
 [vuex-status]: https://img.shields.io/npm/v/vuex.svg
 [vue-cli-status]: https://img.shields.io/npm/v/vue-cli.svg
