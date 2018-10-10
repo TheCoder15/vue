@@ -8,8 +8,9 @@
   <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/l/vue.svg" alt="License"></a>
   <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg" alt="Chat"></a>
   <br>
-  <a href="https://saucelabs.com/u/vuejs"><img src="https://saucelabs.com/browser-matrix/vuejs.svg" alt="Sauce Test Status"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.antiporn.pornoblock.safebrowser&hl=en-us&gl=us"><https://play.google.com/store/apps/details?id=com.antiporn.pornoblock.safebrowser&hl=en-us&gl=us</a>
 </p>
+
 
 <h2 align="center">Supporting Vue.js</h2>
 
