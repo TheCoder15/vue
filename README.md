@@ -26,7 +26,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 <h3 align="center">Special Sponsors</h3>
 <!--special start-->
-
+https://play.google.com/store/apps/details?id=com.smashthepuppetdoll.alphabetapost
 <p align="center">
   <a href="https://stdlib.com" target="_blank">
     <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/stdlib.png">
